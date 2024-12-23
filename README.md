@@ -9,3 +9,4 @@ This is the repository for Practical Work II
 - Creating about.html file
 - Creating contact.html file
 - Creating net.html file
+- Creating degree.html file

@@ -12,3 +12,4 @@ This is the repository for Practical Work II
 - Creating degree.html file.
 - Creating topic.html file.
 - Adding some social media images.
+- Modifiying about.html and adding some images

@@ -1,10 +1,8 @@
 body {
     font-family: Arial, sans-serif;
-    line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #c2c2c2;
-    color: #333;
+    background-color: #8872b1 ;
 }
 header {
     background: #8872b1;
@@ -36,32 +34,80 @@ img {
     font-weight: bold;
     text-decoration: none;
 }
-h1 {
-    text-align: center;
-    font-family: cursive;
-    font-size: 40px;
-}
+
 h2 {
     text-decoration: underline;
     align-content: center;
     text-align: center;
+    margin-top: 30px;
 }
-.section-header {
-    cursor: pointer;
-    background-color: #f4f4f4;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+.body-about {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #c2c2c2;
+    color: #333;
+}
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+h1, h2 {
+    color: #333333;
+    text-align: center;
+    font-family: cursive;
+}
+h3 {
+    color: #333333;
+    text-align: left;
+    font-family: cursive; 
+}
+.contact-container {
+    width: 600px;
+    height: 700px;
+    margin: 50px auto;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+}
+.contact-container h1 {
+    text-align: center;
+    color: #333333;
+    margin-bottom: 20px;
+}
+.contact-container form {
+    display: flex;
+    flex-direction: column;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.form-group label {
+    display: block;
+    font-weight: bold;
     margin-bottom: 5px;
 }
-.section-header:hover {
-    background-color: #e0e0e0;
+.form-group textarea {
+    height: 120px;
+    width: 500px;;
 }
-.section-content {
-    display: none;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-top: none;
-    border-radius: 0 0 5px 5px;
-    margin-bottom: 10px;
+.form-group button {
+    padding: 7px 17px;
+    background-color: purple;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    font-size: 17px;
+    cursor: pointer;
+    font-family: cursive;
 }
+.form-group button:hover {
+    background-color: purple;
+}
+
+

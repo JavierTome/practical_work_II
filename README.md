@@ -14,3 +14,4 @@ This is the repository for Practical Work II
 - Adding some social media images.
 - Modifiying about.html and adding some images
 - Modifiying styles.css, degree.html and contact.html files
+- Modifiying contact.html, degree.html, topic.html files

@@ -15,3 +15,4 @@ This is the repository for Practical Work II
 - Modifiying about.html and adding some images
 - Modifiying styles.css, degree.html and contact.html files
 - Modifiying contact.html, degree.html, topic.html files
+- Adding some images, creating fce.html file and modifiying fce.html file
